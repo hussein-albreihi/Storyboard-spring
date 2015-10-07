@@ -1,0 +1,16 @@
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/repository/TeamRepository.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/App.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/model/Issue.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/config/ApplicationConfig.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/model/WorkItem.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/repository/IssueRepository.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/service/TeamService.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/service/WorkItemService.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/model/User.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/service/IssueService.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/config/ServiceConfig.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/service/UserService.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/repository/UserRepository.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/model/Team.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/repository/WorkItemRepository.java
+/Users/hssen/Documents/java/Storyboard/src/main/java/se/kebnekaise/java/spring/model/AbstractEntity.java

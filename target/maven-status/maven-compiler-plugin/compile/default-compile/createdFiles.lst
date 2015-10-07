@@ -1,0 +1,16 @@
+se/kebnekaise/java/spring/App.class
+se/kebnekaise/java/spring/service/UserService.class
+se/kebnekaise/java/spring/repository/WorkItemRepository.class
+se/kebnekaise/java/spring/model/AbstractEntity.class
+se/kebnekaise/java/spring/repository/IssueRepository.class
+se/kebnekaise/java/spring/model/Issue.class
+se/kebnekaise/java/spring/model/WorkItem.class
+se/kebnekaise/java/spring/repository/TeamRepository.class
+se/kebnekaise/java/spring/model/Team.class
+se/kebnekaise/java/spring/repository/UserRepository.class
+se/kebnekaise/java/spring/model/User.class
+se/kebnekaise/java/spring/service/IssueService.class
+se/kebnekaise/java/spring/service/TeamService.class
+se/kebnekaise/java/spring/service/WorkItemService.class
+se/kebnekaise/java/spring/config/ServiceConfig.class
+se/kebnekaise/java/spring/config/ApplicationConfig.class
